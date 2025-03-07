@@ -32,7 +32,7 @@ public class Main {
         }}
 
         System.out.println("*******************************");
-        System.out.println("Thnk you! Have a nice day!");
+        System.out.println("Thank you! Have a nice day!");
         System.out.println("*******************************");
 
        scanner.close();
